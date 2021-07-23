@@ -4,3 +4,6 @@ I am a fullstack developer from Germany
 - 🌱 Learning design patterns in depth
 <br>
 
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/apiBasakKurtLabanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
