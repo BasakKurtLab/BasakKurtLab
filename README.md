@@ -14,6 +14,19 @@ I am a fullstack developer from Germany
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
 </p>
 
+<a href="https://www.instagram.com/aleks.popovic/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/alekspopovic/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=BasakKurtLab)](https://github.com/anuraghazra/github-readme-stats)
 
