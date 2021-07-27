@@ -26,6 +26,13 @@ I am a fullstack developer from Germany
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://www.linkedin.com/in/alekspopovic/">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
 
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=BasakKurtLab)](https://github.com/anuraghazra/github-readme-stats)
