@@ -47,14 +47,10 @@ I am a fullstack developer from Germany
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_teams_logo_icon_145726.png" height="30"/> </a>
 
-
-</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BasakKurtLab&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasakKurtLab&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasakKurtLab&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
-
-![](https://komarev.com/ghpvc/?username=BasakKurtLab)
 
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=BasakKurtLab)](https://github.com/anuraghazra/github-readme-stats)
