@@ -45,11 +45,11 @@ I am a fullstack developer from Germany
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_teams_logo_icon_145726.png" height="30"/> </a>
-![](https://komarev.com/ghpvc/?username=BasakKurtLab)
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_teams_logo_icon_145726.png" height="30"/> </a><br>
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BasakKurtLab&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BasakKurtLab&theme=buefy&" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BasakKurtLab&theme=buefy&" alt="my commit status" width="49%" /> </p><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasakKurtLab&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 
 
