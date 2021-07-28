@@ -52,9 +52,6 @@ I am a fullstack developer from Germany
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BasakKurtLab&theme=buefy " alt="my github stats" width="49%"/></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BasakKurtLab&theme=buefy&" alt="my commit status" width="49%" /> </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasakKurtLab&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasakKurtLab)](https://github.com/anuraghazra/github-readme-stats)
