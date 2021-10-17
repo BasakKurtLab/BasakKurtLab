@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a fullstack developer from Germany
-- 🔭 Working on frontend and backend projects.
+I am a frontend developer from Germany
+- 🔭 Working on frontend projects.
 - 🌱 Learning design patterns in depth.
 - 💬 Ask me about anything that you want to learn
 <br>
