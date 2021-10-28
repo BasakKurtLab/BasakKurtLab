@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a frontend developer from Germany
 - 🔭 Working on frontend projects.
-- 🌱 Eager to lern new technologies.
+- 🌱 Eager to learn new technologies.
 - 💬 Ask me about anything that you want to learn
 <br>
 
